@@ -631,7 +631,7 @@ vars.put(&quot;guid1&quot;, &quot;${__UUID}&quot;);
           <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
             <stringProp name="delimiter">,</stringProp>
             <stringProp name="fileEncoding"></stringProp>
-            <stringProp name="filename">C:/Users/karth/2020-09-03_09-16-08.876701/SmallDocuments.csv</stringProp>
+            <stringProp name="filename">SmallDocuments.csv</stringProp>
             <boolProp name="ignoreFirstLine">false</boolProp>
             <boolProp name="quotedData">true</boolProp>
             <boolProp name="recycle">true</boolProp>
